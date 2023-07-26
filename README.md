@@ -19,6 +19,6 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4YXg3bmdwejB1OW4zdTJ0OGh3bWYxcjRrMWZqYjZwMmJtdnd4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNyUlbZ1Iq31C/giphy.gif" width="300"/>
 </div>
 
-<div id="badges">
+<div id="badges" align="center">
   <img src="https://komarev.com/ghpvc/?username=jenninikko&style=flat-square&color=blue" alt=""/>
 </div>
