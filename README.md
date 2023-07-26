@@ -1,4 +1,4 @@
-### Hi there 👋
+### Moro there 👋
 
 <!--
 **jenninikko/jenninikko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHR4YXg3bmdwejB1OW4zdTJ0OGh3bWYxcjRrMWZqYjZwMmJtdnd4cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NNyUlbZ1Iq31C/giphy.gif" width="300"/>
+</div>
+
+<div id="badges">
+  <img src="https://komarev.com/ghpvc/?username=jenninikko&style=flat-square&color=blue" alt=""/>
+</div>
